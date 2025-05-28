@@ -3,45 +3,45 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "คอมโพเนนต์ UI ที่ดีที่สุดสำหรับเว็บไซต์สมัยใหม่",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "เรียนรู้เกี่ยวกับคอมโพเนนต์ UI ที่ดีที่สุดที่จะช่วยให้เว็บไซต์ของคุณมีความทันสมัยและใช้งานง่าย พร้อมตัวอย่างการนำไปใช้",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "สมชาย ใจดี",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "นักออกแบบกราฟิก",
     },
-    tags: ["creative"],
-    publishDate: "2025",
+    tags: ["สร้างสรรค์"],
+    publishDate: "2568",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "9 วิธีง่ายๆ ในการพัฒนาทักษะการออกแบบของคุณ",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "เคล็ดลับและเทคนิคที่จะช่วยให้คุณพัฒนาทักษะการออกแบบได้อย่างรวดเร็วและมีประสิทธิภาพ เหมาะสำหรับทั้งมือใหม่และมืออาชีพ",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
+      name: "วิชัย เรียนรู้",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "นักเขียนเนื้อหา",
     },
-    tags: ["computer"],
-    publishDate: "2025",
+    tags: ["คอมพิวเตอร์"],
+    publishDate: "2568",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "เทคนิคการเขียนโค้ดให้เร็วขึ้นอย่างมีประสิทธิภาพ",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "เรียนรู้วิธีการเขียนโค้ดให้เร็วขึ้นและมีประสิทธิภาพมากขึ้น ด้วยเทคนิคและเครื่องมือที่นักพัฒนาระดับมืออาชีพใช้กัน",
     image: "/images/blog/blog-03.jpg",
     author: {
-      name: "Lethium Deo",
+      name: "มานี คิดเป็น",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "นักออกแบบกราฟิก",
     },
-    tags: ["design"],
-    publishDate: "2025",
+    tags: ["ออกแบบ"],
+    publishDate: "2568",
   },
 ];
 export default blogData;

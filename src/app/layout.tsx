@@ -3,10 +3,14 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import ScrollToTop from "@/components/ScrollToTop";
-import { Inter } from "next/font/google";
+import { Sarabun } from "next/font/google";
 import "../styles/index.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const sarabun = Sarabun({ 
+  weight: ['300', '400', '500', '700'],
+  subsets: ["latin", "thai"],
+  display: 'swap',
+});
 
 export default function RootLayout({
   children,
@@ -14,14 +18,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html suppressHydrationWarning lang="en">
+    <html suppressHydrationWarning lang="th">
       {/*
         <head /> will contain the components returned by the nearest parent
         head.js. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head />
 
-      <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
+      <body className={`bg-[#FCFCFC] dark:bg-black ${sarabun.className}`}>
         <Providers>
           <Header />
           {children}
