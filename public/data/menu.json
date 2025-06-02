@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "items": [
+    {
+      "id": 1,
+      "name": "หน้าหลัก",
+      "url": "/",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "เกี่ยวกับเรา",
+      "url": "/about",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "บริการ",
+      "url": "/services",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "ผลงาน",
+      "url": "/portfolio",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "ติดต่อเรา",
+      "url": "/contact",
+      "order": 5,
+      "isActive": true
+    }
+  ]
+}

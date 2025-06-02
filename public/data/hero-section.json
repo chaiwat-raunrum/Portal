@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "title": "บริษัท อีซีโอ ไทย จำกัด (ECO THAI CO., LTD.)",
+  "subtitle": "",
+  "description": "ผู้เชี่ยวชาญด้านการออกแบบและติดตั้งงานระบบไฟฟ้า ให้บริการโดยทีมงานมืออาชีพที่มีประสบการณ์ เรามุ่งมั่นสร้างสรรค์ผลงานคุณภาพ ด้วยมาตรฐานความปลอดภัยสูงสุด พร้อมให้คำปรึกษาและบริการหลังการขายที่ดีเยี่ยม",
+  "primaryButtonText": "ติดต่อเรา",
+  "primaryButtonLink": "/contact",
+  "secondaryButtonText": "เกี่ยวกับเรา",
+  "secondaryButtonLink": "/about",
+  "backgroundImage": "/images/hero/hero-background.svg"
+}

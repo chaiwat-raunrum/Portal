@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "companyName": "บริษัท อีซีโอ ไทย จำกัด (ECO THAI CO., LTD.)",
+  "companyDescription": "ผู้เชี่ยวชาญด้านการออกแบบและติดตั้งงานระบบไฟฟ้า",
+  "address": "288 ซอยประชาอุทิศ 27 ถนนประชาอุทิศ แขวงบางมด เขตทุ่งครุ กรุงเทพฯ 10140",
+  "phone": "084-7906781",
+  "email": "warunthon.thai@gmail.com",
+  "socialLinks": [
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/ecothai",
+      "icon": "facebook"
+    },
+    {
+      "name": "Line",
+      "url": "https://line.me/ecothai",
+      "icon": "line"
+    }
+  ],
+  "quickLinks": [
+    {
+      "name": "หน้าหลัก",
+      "url": "/"
+    },
+    {
+      "name": "เกี่ยวกับเรา",
+      "url": "/about"
+    },
+    {
+      "name": "บริการ",
+      "url": "/services"
+    },
+    {
+      "name": "ติดต่อเรา",
+      "url": "/contact"
+    }
+  ],
+  "copyright": "© 2025 บริษัท อีซีโอ ไทย จำกัด. สงวนลิขสิทธิ์."
+}

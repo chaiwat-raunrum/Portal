@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 300 120" width="300" height="120">
+  <!-- Background with slight gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0f8ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="120" fill="url(#bgGradient)" rx="8" ry="8"/>
+  
+  <!-- Main Logo Group -->
+  <g transform="translate(65, 15)">
+    <!-- Electric Power Tower -->
+    <path d="M85,10 L95,10 L100,20 L80,20 Z" fill="#1E3A8A"/>
+    <path d="M87,20 L93,20 L93,65 L87,65 Z" fill="#1E3A8A"/>
+    <path d="M75,35 L105,35 M70,50 L110,50" stroke="#1E3A8A" stroke-width="2"/>
+    
+    <!-- Lightning Bolts -->
+    <path d="M65,30 L55,50 L65,50 L55,70" stroke="#FFD700" stroke-width="3" fill="none"/>
+    <path d="M115,30 L125,50 L115,50 L125,70" stroke="#FFD700" stroke-width="3" fill="none"/>
+    
+    <!-- Circuit Board Elements -->
+    <rect x="40" y="65" width="90" height="15" fill="#1E3A8A" rx="2" ry="2"/>
+    <circle cx="55" cy="72.5" r="4" fill="#FFD700"/>
+    <circle cx="75" cy="72.5" r="4" fill="#FFD700"/>
+    <circle cx="95" cy="72.5" r="4" fill="#FFD700"/>
+    <circle cx="115" cy="72.5" r="4" fill="#FFD700"/>
+    
+    <!-- Circular Electric Symbol -->
+    <circle cx="90" cy="35" r="25" fill="none" stroke="#FF8C00" stroke-width="2"/>
+    <path d="M90,20 L90,30 M90,40 L90,50 M75,35 L85,35 M95,35 L105,35" stroke="#FF8C00" stroke-width="2"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="150" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1E3A8A">ECO THAI CO.,LTD.</text>
+  
+  <!-- Thai Company Name -->
+  <text x="150" y="115" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1E3A8A">บริษัท อีซีโอ ไทย จำกัด</text>
+</svg>

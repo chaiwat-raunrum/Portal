@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "title": "ติดต่อเรา",
+  "description": "หากคุณมีคำถามหรือต้องการข้อมูลเพิ่มเติม สามารถติดต่อเราได้ตามช่องทางด้านล่าง",
+  "address": "288 ซอยประชาอุทิศ 27 ถนนประชาอุทิศ แขวงบางมด เขตทุ่งครุ กรุงเทพฯ 10140",
+  "phone": "084-7906781",
+  "email": "warunthon.thai@gmail.com",
+  "contactPerson": "วรันธรณ์ ไชยธนพันธุ์ (Project Manager)",
+  "mapLocation": {
+    "lat": 13.6500,
+    "lng": 100.5000
+  },
+  "formFields": [
+    {
+      "id": "name",
+      "label": "ชื่อ-นามสกุล",
+      "type": "text",
+      "required": true
+    },
+    {
+      "id": "email",
+      "label": "อีเมล",
+      "type": "email",
+      "required": true
+    },
+    {
+      "id": "phone",
+      "label": "เบอร์โทรศัพท์",
+      "type": "tel",
+      "required": true
+    },
+    {
+      "id": "message",
+      "label": "ข้อความ",
+      "type": "textarea",
+      "required": true
+    }
+  ]
+}

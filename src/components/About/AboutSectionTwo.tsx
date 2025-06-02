@@ -28,29 +28,29 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  มาตรฐานความปลอดภัยสูงสุด
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  เรายึดมั่นในมาตรฐานความปลอดภัยระดับสากล ทุกขั้นตอนการทำงานผ่านการตรวจสอบคุณภาพอย่างเข้มงวด
+                  เพื่อให้มั่นใจว่าระบบไฟฟ้าที่เราติดตั้งมีความปลอดภัยสูงสุดสำหรับผู้ใช้งาน
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
+                  บริการหลังการขายเป็นเลิศ
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  เรามีทีมงานบริการหลังการขายที่พร้อมให้คำปรึกษาและแก้ไขปัญหาตลอด 24 ชั่วโมง
+                  ด้วยประสบการณ์และความเชี่ยวชาญ เราพร้อมดูแลลูกค้าอย่างใกล้ชิดและต่อเนื่อง
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                  เทคโนโลยีทันสมัย
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  เราใช้เทคโนโลยีและอุปกรณ์ที่ทันสมัยที่สุดในการออกแบบและติดตั้งระบบไฟฟ้า
+                  เพื่อประสิทธิภาพสูงสุดและความคุ้มค่าในระยะยาวสำหรับลูกค้าของเรา
                 </p>
               </div>
             </div>

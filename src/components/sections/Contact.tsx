@@ -155,7 +155,7 @@ const Contact = () => {
                   <h4 className="mb-1 text-lg font-medium text-black">
                     อีเมล
                   </h4>
-                  <p className="text-base text-body-color">info@example.com</p>
+                  <p className="text-base text-body-color">E-Mail: warunthon.thai@gmail.com</p>
                 </div>
               </div>
               <div className="mb-8 flex items-center">
@@ -166,7 +166,8 @@ const Contact = () => {
                   <h4 className="mb-1 text-lg font-medium text-black">
                     เบอร์โทรศัพท์
                   </h4>
-                  <p className="text-base text-body-color">+66 2 123 4567</p>
+                  <p className="text-base text-body-color">Mobile: 084-7906781</p>
+                  <p className="text-base text-body-color">วรันธรณ์ ไชยธนพันธุ์ (Project Manager)</p>
                 </div>
               </div>
               <div className="flex items-center">
@@ -178,7 +179,7 @@ const Contact = () => {
                     ที่อยู่
                   </h4>
                   <p className="text-base text-body-color">
-                    กรุงเทพมหานคร, ประเทศไทย
+                    288 ซอยประชาอุทิศ 27 ถนนประชาอุทิศ แขวงบางมด เขตทุ่งครุ กรุงเทพฯ 10140
                   </p>
                 </div>
               </div>
